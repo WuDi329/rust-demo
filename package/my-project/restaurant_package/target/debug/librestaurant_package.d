@@ -1,0 +1,1 @@
+/home/wudi/desktop/code/rust/package/my-project/restaurant_package/target/debug/librestaurant_package.rlib: /home/wudi/desktop/code/rust/package/my-project/restaurant_package/src/front_of_house/hosting.rs /home/wudi/desktop/code/rust/package/my-project/restaurant_package/src/front_of_house.rs /home/wudi/desktop/code/rust/package/my-project/restaurant_package/src/lib.rs
